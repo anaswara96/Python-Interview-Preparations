@@ -5,4 +5,5 @@
 ## To find the factorial
 ## To print the prime numbers
 ## To find the largest element from list
-## To find the minimum element from the list
+## To find the smallest element from the list
+
